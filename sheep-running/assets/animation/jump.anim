@@ -1,0 +1,60 @@
+[
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "jump",
+    "_objFlags": 0,
+    "_native": "",
+    "sample": 60,
+    "speed": 1,
+    "wrapMode": 1,
+    "events": [],
+    "_duration": 0.2833333333333333,
+    "_keys": [
+      [
+        0,
+        0.06666666666666667,
+        0.13333333333333333,
+        0.2,
+        0.26666666666666666
+      ]
+    ],
+    "_stepness": 0,
+    "_curves": [
+      {
+        "modifiers": [
+          {
+            "__id__": 1
+          },
+          "spriteFrame"
+        ],
+        "data": {
+          "keys": 0,
+          "values": [
+            {
+              "__uuid__": "2fb57d17-bcd4-4e2f-b9b6-798dd1333eae@f9941"
+            },
+            {
+              "__uuid__": "376b58e8-2bbd-4146-843f-4aaaef78744d@f9941"
+            },
+            {
+              "__uuid__": "7ae503e5-fb8a-4a0f-a4bf-cc23e6d70d73@f9941"
+            },
+            {
+              "__uuid__": "4a606773-ef00-43a0-9ee9-2f66e4633549@f9941"
+            },
+            {
+              "__uuid__": "4049c38e-c690-45cb-ad79-dcc4ba9eb905@f9941"
+            }
+          ],
+          "easingMethods": {}
+        }
+      }
+    ],
+    "_commonTargets": [],
+    "_hash": 1792593774
+  },
+  {
+    "__type__": "cc.animation.ComponentPath",
+    "component": "cc.Sprite"
+  }
+]

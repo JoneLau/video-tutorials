@@ -1,0 +1,13 @@
+{
+  "ver": "1.0.11",
+  "importer": "animation-clip",
+  "imported": true,
+  "uuid": "40d111ab-1ed9-4fd0-a7c4-c7f6c3e6f3fa",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {},
+  "userData": {
+    "name": "sheep-move"
+  }
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "run",
+    "_objFlags": 0,
+    "_native": "",
+    "sample": 60,
+    "speed": 1,
+    "wrapMode": 2,
+    "events": [],
+    "_duration": 0.4166666666666667,
+    "_keys": [
+      [
+        0,
+        0.13333333333333333,
+        0.26666666666666666,
+        0.4
+      ]
+    ],
+    "_stepness": 0,
+    "_curves": [
+      {
+        "modifiers": [
+          {
+            "__id__": 1
+          },
+          "spriteFrame"
+        ],
+        "data": {
+          "keys": 0,
+          "values": [
+            {
+              "__uuid__": "55565f03-e27a-4a7f-84a3-4b9671976d6e@f9941"
+            },
+            {
+              "__uuid__": "c6c248a7-0ac5-45a8-8dc6-5034e3c5adce@f9941"
+            },
+            {
+              "__uuid__": "cdec6192-ca7f-46fc-9171-14b55b11b652@f9941"
+            },
+            {
+              "__uuid__": "0abd65a0-d9aa-43d2-8333-5bcade6e8ee0@f9941"
+            }
+          ],
+          "easingMethods": {}
+        }
+      }
+    ],
+    "_commonTargets": [],
+    "_hash": 1792593774
+  },
+  {
+    "__type__": "cc.animation.ComponentPath",
+    "component": "cc.Sprite"
+  }
+]
